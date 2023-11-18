@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-🌱 I’m currently learning computer science at university of applied science Bern
+🌱 I’m currently learning computer science at Bern University of Applied Sciences
